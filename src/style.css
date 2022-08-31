@@ -1,0 +1,26 @@
+.bg {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-color: black;
+  border-radius: 5px;
+}
+
+h1 {
+  text-shadow: black;
+}
+
+.wd {
+  margin: 0 auto;
+  width: 250px;
+}
+.email {
+  text-decoration: none;
+  color: brown;
+}
+h5 {
+  font-weight: light;
+}
+.foot {
+  text-decoration: none;
+  font-size: large;
+}
